@@ -12,7 +12,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 </br>
-<img src="https://img.shields.io/badge/sung0651@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
+<img src="https://img.shields.io/badge/sung0651@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+
 
 
