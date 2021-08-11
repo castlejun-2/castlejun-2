@@ -14,6 +14,10 @@
 </br>
 </p>
 </br>
-<a href="https://well-made-codestory.tistory.com/"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> &nbsp <img src="https://img.shields.io/badge/sung0651@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<p>
+<img href="https://well-made-codestory.tistory.com/" src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://well-made-codestory.tistory.com"/> &nbsp
+<img src="https://img.shields.io/badge/sung0651@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</p>
+
 
 
