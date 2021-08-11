@@ -6,14 +6,14 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 </br>
 <img src="https://img.shields.io/badge/AWS-FFAD00?style=flat-square&logo=AmazonAWS&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 </br>
 </p>
-<img src="https://img.shields.io/badge/sung0651@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-
+</br>
+<a href="https://byul91oh.tistory.com/"> <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/> &nbsp <img src="https://img.shields.io/badge/sung0651@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
