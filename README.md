@@ -16,7 +16,7 @@
 </br>
 <p>
 <a href="https://well-made-codestory.tistory.com"/>
-<img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://well-made-codestory.tistory.com"/></a> &nbsp
+<img src="http://img.shields.io/badge/-My%20Blog-655ced?style=flat&logo=github&link=https://well-made-codestory.tistory.com"/></a> &nbsp
 <img src="https://img.shields.io/badge/sung0651@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
 
