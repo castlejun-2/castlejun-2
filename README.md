@@ -21,7 +21,9 @@
 <p>
 <a href="https://well-made-codestory.tistory.com"/>
 <img src="http://img.shields.io/badge/-My%20Blog-655ced?style=flat&logo=github&link=https://well-made-codestory.tistory.com"/></a> &nbsp
-<img src="https://img.shields.io/badge/sung0651@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/sung0651@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> &nbsp
+<a href="https://www.notion.so/Introduce-9f5bbc3c0d134ac489aeccd0999d2957"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Introduce-9f5bbc3c0d134ac489aeccd0999d2957"/></a>
 </p>
 
 
