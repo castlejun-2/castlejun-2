@@ -24,8 +24,6 @@
 <img src="https://img.shields.io/badge/sung0651@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> &nbsp
 <a href="https://www.notion.so/Introduce-9f5bbc3c0d134ac489aeccd0999d2957"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Introduce-9f5bbc3c0d134ac489aeccd0999d2957"/></a> &nbsp
-<a href="http://www.castlejun-2.shop"/>
-<img src="https://img.shields.io/badge/My PortPolio Page-ffffff?style=flat&logo=Bootstrap&logoColor=black&link=https://www.notion.so/Introduce-9f5bbc3c0d134ac489aeccd0999d2957"/></a>
 </p>
 
 
